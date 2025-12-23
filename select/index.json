@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "不安定ねこくらげ",
+  "base_artist": "神聖かまってちゃん",
+  "createdAt": "2025-12-23T20:44:20.149603Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不安定ねこくらげ",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_不安定ねこくらげ_神聖かまってちゃん.txt"
+    }
+  ]
+}
